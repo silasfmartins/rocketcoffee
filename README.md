@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="RocketCoffee" height="80" title="RocketCoffee" src="./assets/images/logo.svg" />
+  <img alt="RocketCoffee" height="80" title="RocketCoffee" src="./assets/logo-desktop.svg" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/blog/rocketcoffee/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/rocketcoffee/blob/main/Contributing.md)
 
 ## 💿 Histórico / History
 
@@ -38,4 +38,4 @@ Consulte [Releases](https://github.com/silasfmartins/rocketcoffee/releases) para
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/blog/rocketcoffee/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/rocketcoffee/blob/main/LICENSE) © Silas Martins para mais detalhes.
